@@ -7,7 +7,7 @@ Bu proje kapsamında sağlık verisi üzerinde **veri temizleme, görselleştirm
 
 ## 📂 Proje Yapısı  
 
-```bash
+
 talent-academy-case-ds/
 │
 ├── data/
