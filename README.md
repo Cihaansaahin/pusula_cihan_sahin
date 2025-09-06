@@ -7,7 +7,7 @@ Bu proje kapsamında sağlık verisi üzerinde **veri temizleme, görselleştirm
 
 ## 📂 Proje Yapısı  
 
-
+'''bash
 talent-academy-case-ds/
 │
 ├── data/
@@ -24,7 +24,7 @@ talent-academy-case-ds/
 ├── README.md                              # Proje açıklaması
 └── requirements.txt                       # Bağımlılıklar
 
-
+'''
 ## 🚀 Kullanım  
 1. Repoyu klonla:  
    git clone https://github.com/Cihaansaahin/talent-academy-case-ds.git  
