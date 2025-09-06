@@ -41,19 +41,19 @@ Exploratory Data Analysis (EDA) and preprocessing pipeline for Talent Academy Da
 
 ---
 
-## 📊 Görseller
+## 📊 Görseller  
 
-### Eksik Veri Haritası
-![Eksik Veri Haritası](outputs/eksik_veri_haritasi.png)
+### Eksik Veri Haritası  
+![Eksik Veri Haritası](outputs/eksik_veri_haritasi.png)  
 
-### Sayısal Dağılım
-![Sayısal Dağılım](outputs/sayisal_dagilim.png)
+### Sayısal Dağılım  
+![Sayısal Dağılım](outputs/sayisal_dagilim.png)  
 
-### Kategorik Dağılım
-![Kategorik Dağılım](outputs/kategorik_dagilim.png)
+### Kategorik Dağılım  
+![Kategorik Dağılım](outputs/kategorik_dagilim.png)  
 
-### Feature Importance
-![Feature Importance](outputs/feature_importances_top20.png)
+### Feature Importance  
+![Feature Importance](outputs/feature_importances_top20.png)  
 
 
 ## 📊 Çıktılar  
