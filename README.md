@@ -1,3 +1,5 @@
+Ad Soyad: Cihan Şahin
+E-posta: cihaansaahin@gmail.com
 # Talent Academy Case - Data Science 2025  
 
 Exploratory Data Analysis (EDA) and preprocessing pipeline for the **Talent Academy Data Science Case 2025**.  
@@ -58,3 +60,9 @@ Exploratory Data Analysis (EDA) and preprocessing pipeline for Talent Academy Da
 - Kategorik dağılım grafikleri  
 - Temizlenmiş dataset (csv/xlsx)  
 - Feature importance grafiği  
+
+## 📝 Lisans
+
+Bu proje MIT Lisansı ile lisanslanmıştır. Detaylı bilgi için [LICENSE](LICENSE) dosyasını inceleyebilirsiniz.
+
+© 2025 Cihan Şahin – [GitHub](https://github.com/Cihaansaahin)
