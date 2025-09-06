@@ -6,7 +6,20 @@ Exploratory Data Analysis (EDA) and preprocessing pipeline for the **Talent Acad
 Bu proje kapsamında sağlık verisi üzerinde **veri temizleme, görselleştirme, one-hot encoding ve feature importance analizi** yapılmıştır.  
 
 ---
+## 🎯 Proje Amacı
 
+Bu proje, **Talent Academy Data Science Case 2025** kapsamında sağlık verisi üzerinde kapsamlı bir veri analizi gerçekleştirmeyi amaçlamaktadır. Projenin temel hedefleri:
+
+- **Veri Kalitesi Değerlendirmesi**: Ham veri setindeki eksik değerleri tespit etme ve görselleştirme
+- **Veri Temizleme**: Eksik verileri uygun yöntemlerle doldurma ve veri setini analiz için hazır hale getirme
+- **Keşifsel Veri Analizi (EDA)**: Sayısal ve kategorik değişkenlerin dağılımlarını inceleme
+- **Feature Engineering**: One-hot encoding ile kategorik değişkenleri sayısal forma dönüştürme
+- **Özellik Önem Analizi**: Hangi değişkenlerin hedef değişken üzerinde daha etkili olduğunu belirleme
+- **Görselleştirme**: Analiz sonuçlarını anlaşılır grafiklerle sunma
+
+Bu analiz, sağlık verilerinin yapısını anlama ve gelecekteki makine öğrenmesi modelleri için temel oluşturma amacıyla tasarlanmıştır.
+
+---
 ## 📂 Proje Yapısı  
 
 ```bash
