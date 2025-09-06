@@ -40,19 +40,19 @@ talent-academy-case-ds/
 Exploratory Data Analysis (EDA) and preprocessing pipeline for Talent Academy Data Science Case 2025.
 
 ---
-## 📊 Çıktı Görselleri  
+## 📊 Çıktı Görselleri
 
-### Eksik Veri Haritası  
-<img src="outputs/eksik_veri_haritasi.png" width="500">  
+### Eksik Veri Haritası
+![Eksik Veri Haritası](outputs/eksik_veri_haritasi.png)
 
-### Sayısal Dağılım  
-<img src="outputs/sayisal_dagilim.png" width="500">  
+### Sayısal Dağılım
+![Sayısal Dağılım](outputs/sayisal_dagilim.png)
 
-### Kategorik Dağılım  
-<img src="outputs/kategorik_dagilim.png" width="500">  
+### Kategorik Dağılım
+![Kategorik Dağılım](pusula_cihan_sahin/outputs/kategorik_dagilim.png)
 
-### Feature Importance  
-<img src="outputs/feature_importances_top20.png" width="500">  
+### Feature Importance
+![Feature Importance](outputs/feature_importances_top20.png)  
 
 
 ## 📊 Çıktılar  
